@@ -28,8 +28,8 @@
 <image src="images/11.png"/></p>
 <p>Bon le reste Monsieur, vous savez que ça n'a pas marché pour Windows, j'ai avancé pour l'agent Linux</p>
 <h4>4. Agent Elastic sur un poste Linux</h4></p>
-<img src="images/11.png"/></p>
-
+<img src="images/12.png"/></p>
+<img src="images/13.png"/></p>
 
 
 
