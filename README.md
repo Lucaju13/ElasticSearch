@@ -6,7 +6,7 @@
 <p>Modifs sur /etc/systcl.conf:</p>
 <img src="images/2.png"/></p>
 <p>Lancement: https://10.202.13.1:5601</p>
-<img src="images/3.pgn"/></p>
+<img src="images/3.png"/></p>
 <p>Pour pouvoir me connecter j’ai passé la commande “make pass”:</p>
 <img src="images/4.png"/></p>
 <h4>2. Conguration de fleet</h4></p>
